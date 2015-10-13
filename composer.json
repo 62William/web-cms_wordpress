@@ -1,0 +1,9 @@
+{
+    "repositories" : [
+        "type" : "composer",
+        "url" : "http://packages.62william.com"
+    ],
+    "require" : {
+        "62william/web-cms_wordpress" : ">=4.1"
+    }
+}
